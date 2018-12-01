@@ -1,0 +1,34 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+List of variables:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+period - double value, measured in year
+name - String, name of TaxPayer
+listName - String, name of TaxPayersList
+type - String, type of income or tax
+rate - double value, %
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+List of commands:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/addIncome <name>, <value>, <period>, <type>
+/addTax <name>, <rate>, <period>, <type>
+/addTaxPayer <name>
+/calculateTaxAmount <name>
+/calculateTaxAmountAll
+/deleteTaxPayer <name>
+/findByPeriod <name>, <period>, <period>
+/findByRate <name>, <rate>, <rate>
+/findByType <name>, <type>
+/findByValue <name>, <value>, <value>
+/help
+/printFoundList
+/printIncomeTypes
+/printRelations <name>
+/printTaxPayers
+/printTaxTypes
+/readTaxPayers <name>
+/readTaxPayersList <listName>
+/info
+/info <name>
+/writeTaxPayers
+/writeTaxPayers <name>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

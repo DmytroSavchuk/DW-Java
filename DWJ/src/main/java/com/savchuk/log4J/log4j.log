@@ -1,0 +1,21 @@
+2018-11-23 08:45:27 INFO  TaxTypes:26 - File help.txt read
+2018-11-23 08:51:04 INFO  TaxTypes:17 - Added new taxPayer: korbachok
+2018-11-23 08:51:10 INFO  TaxTypes:26 - File help.txt read
+2018-11-23 08:51:20 INFO  TaxTypes:24 - Printed info about taxPayers
+2018-11-23 09:42:18 INFO  TaxTypes:26 - File help.txt read
+2018-11-23 09:45:16 INFO  TaxTypes:17 - Added new taxPayer: one
+2018-11-23 09:45:21 INFO  TaxTypes:17 - Added new taxPayer: two
+2018-11-23 09:45:25 INFO  TaxTypes:17 - Added new taxPayer: three
+2018-11-23 09:45:29 INFO  TaxTypes:15 - Printed taxPayers list
+2018-11-23 09:45:38 INFO  TaxTypes:24 - Printed info about taxPayers
+2018-11-23 09:46:01 INFO  TaxTypes:28 - [Tax{taxAmount=0.0, taxRate=0.1, type=INCOME, taxPeriod=Period{timeInYear=0, timeInMonth=6.0}, lisOfIncomeSpreading=[SALARY, SCHOLARSHIP, INTEREST, DIVIDENTS, PENSION]}]
+2018-11-23 09:46:04 INFO  TaxTypes:24 - Printed info about taxPayers
+2018-11-23 09:46:24 INFO  TaxTypes:18 - Printed: 
+[INCOME, PROPERTY, SALEOFGOODS, OPERATIONS, ACTIVITIES, EXPENSES]
+2018-11-23 09:46:42 INFO  TaxTypes:27 - one added new income: com.savchuk.classes.TaxPayer@27f8302d
+2018-11-23 09:46:44 INFO  TaxTypes:24 - Printed info about taxPayers
+2018-11-23 09:46:49 INFO  TaxTypes:24 - Printed info about taxPayers
+2018-11-23 09:47:03 INFO  TaxTypes:21 - Calculated taxAmount for one
+2018-11-23 09:47:05 INFO  TaxTypes:24 - Printed info about taxPayers
+2018-11-23 09:47:31 INFO  TaxTypes:22 - Recording of taxPayers to a file
+2018-11-23 09:47:47 INFO  TaxTypes:17 - Printed relations list
